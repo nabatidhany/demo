@@ -12,8 +12,8 @@
     "name": "typicode"
   },
   "payment": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "company_code": "PP01", "plant_id": "P000", "method":"POST", "account_number": "11010101" },
+    { "company_code": "PP01", "plant_id": "P000", "method":"POST", "account_number": "11010201" },
+    { "company_code": "PP01", "plant_id": "P000", "method":"POST", "account_number": "11010102" },
   ]
 }
